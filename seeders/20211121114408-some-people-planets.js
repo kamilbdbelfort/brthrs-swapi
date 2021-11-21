@@ -1,3 +1,5 @@
+// seeders/some-people-planets.js
+
 "use strict";
 
 module.exports = {

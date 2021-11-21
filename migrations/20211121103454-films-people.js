@@ -10,7 +10,7 @@ module.exports = {
         type: Sequelize.INTEGER,
       },
       filmsId: {
-        type: Sequelize.STRING,
+        type: Sequelize.INTEGER,
         references: {
           model: "films",
           key: "id",
@@ -19,7 +19,7 @@ module.exports = {
         onDelete: "CASCADE",
       },
       peopleId: {
-        type: Sequelize.STRING,
+        type: Sequelize.INTEGER,
         references: {
           model: "people",
           key: "id",

@@ -197,6 +197,19 @@ module.exports = {
           createdAt: new Date(),
           updatedAt: new Date(),
         },
+        // ID 17 doesn't exisit in database
+        {
+          name: "",
+          height: "",
+          mass: "",
+          hair_color: "",
+          skin_color: "",
+          eye_color: "",
+          birth_year: "",
+          gender: "",
+          createdAt: new Date(),
+          updatedAt: new Date(),
+        },
         {
           name: "Wedge Antilles",
           height: "170",
