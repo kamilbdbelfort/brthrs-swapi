@@ -13,6 +13,10 @@ module.exports = (sequelize, DataTypes) => {
         through: "films_people",
         foreignKey: "peopleId",
       });
+      people.belongsTo(models.planets, {
+        through: "people_planets",
+        foreignKey: "peopleId",
+      });
     }
   }
   people.init(
