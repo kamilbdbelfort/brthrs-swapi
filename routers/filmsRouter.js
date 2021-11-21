@@ -1,4 +1,4 @@
-// routers/soundRouter.js
+// routers/filmsRouter.js
 
 const { Router } = require("express");
 const router = new Router();
