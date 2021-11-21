@@ -12,9 +12,9 @@ const bodyParserMiddleWare = express.json();
 app.use(bodyParserMiddleWare);
 
 // Define routers
-const FilmsRouter = require("./routers/filmsRouter");
-const PeopleRouter = require("./routers/peopleRouter");
-const PlanetsRouter = require("./routers/planetsRouter");
+const FilmsRouter = require("./routers/filmRouter");
+const PeopleRouter = require("./routers/personRouter");
+const PlanetsRouter = require("./routers/planetRouter");
 
 // Use routers
 app.use("/", FilmsRouter);

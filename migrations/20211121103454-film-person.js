@@ -2,14 +2,14 @@
 
 module.exports = {
   up: async (queryInterface, Sequelize) => {
-    await queryInterface.createTable("films_people", {
+    await queryInterface.createTable("film_people", {
       id: {
         allowNull: false,
         autoIncrement: true,
         primaryKey: true,
         type: Sequelize.INTEGER,
       },
-      filmsId: {
+      filmId: {
         type: Sequelize.INTEGER,
         references: {
           model: "films",
@@ -18,7 +18,7 @@ module.exports = {
         onUpdate: "CASCADE",
         onDelete: "CASCADE",
       },
-      peopleId: {
+      personId: {
         type: Sequelize.INTEGER,
         references: {
           model: "people",
@@ -39,6 +39,6 @@ module.exports = {
   },
 
   down: async (queryInterface, Sequelize) => {
-    await queryInterface.dropTable("films_people");
+    await queryInterface.dropTable("film_person");
   },
 };

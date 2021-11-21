@@ -1,9 +1,9 @@
-// models/people_planets.js
+// models/film_person.js
 
 "use strict";
 const { Model } = require("sequelize");
 module.exports = (sequelize, DataTypes) => {
-  class people_planets extends Model {
+  class film_person extends Model {
     /**
      * Helper method for defining associations.
      * This method is not a part of Sequelize lifecycle.
@@ -11,19 +11,19 @@ module.exports = (sequelize, DataTypes) => {
      */
     static associate(models) {
       // // define association here
-      people_planets.belongsTo(models.people);
-      people_planets.belongsTo(models.planets);
+      film_person.belongsTo(models.film);
+      film_person.belongsTo(models.person);
     }
   }
-  people_planets.init(
+  film_person.init(
     {
-      peopleId: { type: DataTypes.INTEGER, allowNull: false },
-      planetsId: { type: DataTypes.INTEGER, allowNull: false },
+      filmId: { type: DataTypes.INTEGER, allowNull: false },
+      personId: { type: DataTypes.INTEGER, allowNull: false },
     },
     {
       sequelize,
-      modelName: "people_planets",
+      modelName: "film_person",
     }
   );
-  return people_planets;
+  return film_person;
 };
