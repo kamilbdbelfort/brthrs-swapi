@@ -15,6 +15,8 @@ module.exports = {
           terrain: "desert",
           surface_water: "1",
           population: "200000",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Alderaan",
@@ -26,6 +28,8 @@ module.exports = {
           terrain: "grasslands, mountains",
           surface_water: "40",
           population: "2000000000",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Yavin IV",
@@ -37,6 +41,8 @@ module.exports = {
           terrain: "jungle, rainforests",
           surface_water: "8",
           population: "1000",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Hoth",
@@ -48,6 +54,8 @@ module.exports = {
           terrain: "tundra, ice caves, mountain ranges",
           surface_water: "100",
           population: "unknown",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Dagobah",
@@ -59,6 +67,8 @@ module.exports = {
           terrain: "swamp, jungles",
           surface_water: "8",
           population: "unknown",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Bespin",
@@ -70,6 +80,8 @@ module.exports = {
           terrain: "gas giant",
           surface_water: "0",
           population: "6000000",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Endor",
@@ -81,6 +93,8 @@ module.exports = {
           terrain: "forests, mountains, lakes",
           surface_water: "8",
           population: "30000000",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Naboo",
@@ -92,6 +106,8 @@ module.exports = {
           terrain: "grassy hills, swamps, forests, mountains",
           surface_water: "12",
           population: "4500000000",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Coruscant",
@@ -103,6 +119,8 @@ module.exports = {
           terrain: "cityscape, mountains",
           surface_water: "unknown",
           population: "1000000000000",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Kamino",
@@ -114,6 +132,8 @@ module.exports = {
           terrain: "ocean",
           surface_water: "100",
           population: "1000000000",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Geonosis",
@@ -125,6 +145,8 @@ module.exports = {
           terrain: "rock, desert, mountain, barren",
           surface_water: "5",
           population: "100000000000",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Utapau",
@@ -136,6 +158,8 @@ module.exports = {
           terrain: "scrublands, savanna, canyons, sinkholes",
           surface_water: "0.9",
           population: "95000000",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Mustafar",
@@ -147,6 +171,8 @@ module.exports = {
           terrain: "volcanoes, lava rivers, mountains, caves",
           surface_water: "0",
           population: "20000",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Kashyyyk",
@@ -158,6 +184,8 @@ module.exports = {
           terrain: "jungle, forests, lakes, rivers",
           surface_water: "60",
           population: "45000000",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Polis Massa",
@@ -169,6 +197,8 @@ module.exports = {
           terrain: "airless asteroid",
           surface_water: "0",
           population: "1000000",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Mygeeto",
@@ -180,6 +210,8 @@ module.exports = {
           terrain: "glaciers, mountains, ice canyons",
           surface_water: "unknown",
           population: "19000000",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Felucia",
@@ -191,6 +223,8 @@ module.exports = {
           terrain: "fungus forests",
           surface_water: "unknown",
           population: "8500000",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Cato Neimoidia",
@@ -202,6 +236,8 @@ module.exports = {
           terrain: "mountains, fields, forests, rock arches",
           surface_water: "unknown",
           population: "10000000",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Saleucami",
@@ -213,6 +249,8 @@ module.exports = {
           terrain: "caves, desert, mountains, volcanoes",
           surface_water: "unknown",
           population: "1400000000",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Stewjon",
@@ -224,6 +262,8 @@ module.exports = {
           terrain: "grass",
           surface_water: "unknown",
           population: "unknown",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Eriadu",
@@ -235,6 +275,8 @@ module.exports = {
           terrain: "cityscape",
           surface_water: "unknown",
           population: "22000000000",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Corellia",
@@ -246,6 +288,8 @@ module.exports = {
           terrain: "plains, urban, hills, forests",
           surface_water: "70",
           population: "3000000000",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Rodia",
@@ -257,6 +301,8 @@ module.exports = {
           terrain: "jungles, oceans, urban, swamps",
           surface_water: "60",
           population: "1300000000",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Nal Hutta",
@@ -268,6 +314,8 @@ module.exports = {
           terrain: "urban, oceans, swamps, bogs",
           surface_water: "unknown",
           population: "7000000000",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Dantooine",
@@ -279,6 +327,8 @@ module.exports = {
           terrain: "oceans, savannas, mountains, grasslands",
           surface_water: "unknown",
           population: "1000",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Bestine IV",
@@ -290,6 +340,8 @@ module.exports = {
           terrain: "rocky islands, oceans",
           surface_water: "98",
           population: "62000000",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Ord Mantell",
@@ -301,6 +353,8 @@ module.exports = {
           terrain: "plains, seas, mesas",
           surface_water: "10",
           population: "4000000000",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "unknown",
@@ -312,6 +366,8 @@ module.exports = {
           terrain: "unknown",
           surface_water: "unknown",
           population: "unknown",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Trandosha",
@@ -323,6 +379,8 @@ module.exports = {
           terrain: "mountains, seas, grasslands, deserts",
           surface_water: "unknown",
           population: "42000000",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Socorro",
@@ -334,6 +392,8 @@ module.exports = {
           terrain: "deserts, mountains",
           surface_water: "unknown",
           population: "300000000",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Mon Cala",
@@ -345,6 +405,8 @@ module.exports = {
           terrain: "oceans, reefs, islands",
           surface_water: "100",
           population: "27000000000",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Chandrila",
@@ -356,6 +418,8 @@ module.exports = {
           terrain: "plains, forests",
           surface_water: "40",
           population: "1200000000",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Sullust",
@@ -367,6 +431,8 @@ module.exports = {
           terrain: "mountains, volcanoes, rocky deserts",
           surface_water: "5",
           population: "18500000000",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Toydaria",
@@ -378,6 +444,8 @@ module.exports = {
           terrain: "swamps, lakes",
           surface_water: "unknown",
           population: "11000000",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Malastare",
@@ -389,6 +457,8 @@ module.exports = {
           terrain: "swamps, deserts, jungles, mountains",
           surface_water: "unknown",
           population: "2000000000",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Dathomir",
@@ -400,6 +470,8 @@ module.exports = {
           terrain: "forests, deserts, savannas",
           surface_water: "unknown",
           population: "5200",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Ryloth",
@@ -411,6 +483,8 @@ module.exports = {
           terrain: "mountains, valleys, deserts, tundra",
           surface_water: "5",
           population: "1500000000",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Aleen Minor",
@@ -422,6 +496,8 @@ module.exports = {
           terrain: "unknown",
           surface_water: "unknown",
           population: "unknown",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Vulpter",
@@ -433,6 +509,8 @@ module.exports = {
           terrain: "urban, barren",
           surface_water: "unknown",
           population: "421000000",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Troiken",
@@ -444,6 +522,8 @@ module.exports = {
           terrain: "desert, tundra, rainforests, mountains",
           surface_water: "unknown",
           population: "unknown",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Tund",
@@ -455,6 +535,8 @@ module.exports = {
           terrain: "barren, ash",
           surface_water: "unknown",
           population: "0",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Haruun Kal",
@@ -466,6 +548,8 @@ module.exports = {
           terrain: "toxic cloudsea, plateaus, volcanoes",
           surface_water: "unknown",
           population: "705300",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Cerea",
@@ -477,6 +561,8 @@ module.exports = {
           terrain: "verdant",
           surface_water: "20",
           population: "450000000",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Glee Anselm",
@@ -488,6 +574,8 @@ module.exports = {
           terrain: "lakes, islands, swamps, seas",
           surface_water: "80",
           population: "500000000",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Iridonia",
@@ -499,6 +587,8 @@ module.exports = {
           terrain: "rocky canyons, acid pools",
           surface_water: "unknown",
           population: "unknown",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Tholoth",
@@ -510,6 +600,8 @@ module.exports = {
           terrain: "unknown",
           surface_water: "unknown",
           population: "unknown",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Iktotch",
@@ -521,6 +613,8 @@ module.exports = {
           terrain: "rocky",
           surface_water: "unknown",
           population: "unknown",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Quermia",
@@ -532,6 +626,8 @@ module.exports = {
           terrain: "unknown",
           surface_water: "unknown",
           population: "unknown",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Dorin",
@@ -543,6 +639,8 @@ module.exports = {
           terrain: "unknown",
           surface_water: "unknown",
           population: "unknown",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Champala",
@@ -554,6 +652,8 @@ module.exports = {
           terrain: "oceans, rainforests, plateaus",
           surface_water: "unknown",
           population: "3500000000",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Mirial",
@@ -565,6 +665,8 @@ module.exports = {
           terrain: "deserts",
           surface_water: "unknown",
           population: "unknown",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Serenno",
@@ -576,6 +678,8 @@ module.exports = {
           terrain: "rainforests, rivers, mountains",
           surface_water: "unknown",
           population: "unknown",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Concord Dawn",
@@ -587,6 +691,8 @@ module.exports = {
           terrain: "jungles, forests, deserts",
           surface_water: "unknown",
           population: "unknown",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Zolan",
@@ -598,6 +704,8 @@ module.exports = {
           terrain: "unknown",
           surface_water: "unknown",
           population: "unknown",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Ojom",
@@ -609,6 +717,8 @@ module.exports = {
           terrain: "oceans, glaciers",
           surface_water: "100",
           population: "500000000",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Skako",
@@ -620,6 +730,8 @@ module.exports = {
           terrain: "urban, vines",
           surface_water: "unknown",
           population: "500000000000",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Muunilinst",
@@ -631,6 +743,8 @@ module.exports = {
           terrain: "plains, forests, hills, mountains",
           surface_water: "25",
           population: "5000000000",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Shili",
@@ -642,6 +756,8 @@ module.exports = {
           terrain: "cities, savannahs, seas, plains",
           surface_water: "unknown",
           population: "unknown",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Kalee",
@@ -653,6 +769,8 @@ module.exports = {
           terrain: "rainforests, cliffs, canyons, seas",
           surface_water: "unknown",
           population: "4000000000",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Umbara",
@@ -664,6 +782,8 @@ module.exports = {
           terrain: "unknown",
           surface_water: "unknown",
           population: "unknown",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
       ],
       {}

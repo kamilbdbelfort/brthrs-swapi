@@ -13,6 +13,8 @@ module.exports = {
           director: "George Lucas",
           producer: "Gary Kurtz, Rick McCallum",
           release_date: "1977-05-25",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           title: "The Empire Strikes Back",
@@ -22,6 +24,8 @@ module.exports = {
           director: "Irvin Kershner",
           producer: "Gary Kurtz, Rick McCallum",
           release_date: "1980-05-17",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           title: "Return of the Jedi",
@@ -31,6 +35,8 @@ module.exports = {
           director: "Richard Marquand",
           producer: "Howard G. Kazanjian, George Lucas, Rick McCallum",
           release_date: "1983-05-25",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           title: "The Phantom Menace",
@@ -40,6 +46,8 @@ module.exports = {
           director: "George Lucas",
           producer: "Rick McCallum",
           release_date: "1999-05-19",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           title: "Attack of the Clones",
@@ -49,6 +57,8 @@ module.exports = {
           director: "George Lucas",
           producer: "Rick McCallum",
           release_date: "2002-05-16",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           title: "Revenge of the Sith",
@@ -58,6 +68,8 @@ module.exports = {
           director: "George Lucas",
           producer: "Rick McCallum",
           release_date: "2005-05-19",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
       ],
       {}

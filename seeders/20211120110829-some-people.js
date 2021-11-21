@@ -14,6 +14,8 @@ module.exports = {
           eye_color: "blue",
           birth_year: "19BBY",
           gender: "male",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "C-3PO",
@@ -24,6 +26,8 @@ module.exports = {
           eye_color: "yellow",
           birth_year: "112BBY",
           gender: "n/a",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "R2-D2",
@@ -34,6 +38,8 @@ module.exports = {
           eye_color: "red",
           birth_year: "33BBY",
           gender: "n/a",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Darth Vader",
@@ -44,6 +50,8 @@ module.exports = {
           eye_color: "yellow",
           birth_year: "41.9BBY",
           gender: "male",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Leia Organa",
@@ -54,6 +62,8 @@ module.exports = {
           eye_color: "brown",
           birth_year: "19BBY",
           gender: "female",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Owen Lars",
@@ -64,6 +74,8 @@ module.exports = {
           eye_color: "blue",
           birth_year: "52BBY",
           gender: "male",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Beru Whitesun lars",
@@ -74,6 +86,8 @@ module.exports = {
           eye_color: "blue",
           birth_year: "47BBY",
           gender: "female",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "R5-D4",
@@ -84,6 +98,8 @@ module.exports = {
           eye_color: "red",
           birth_year: "unknown",
           gender: "n/a",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Biggs Darklighter",
@@ -94,6 +110,8 @@ module.exports = {
           eye_color: "brown",
           birth_year: "24BBY",
           gender: "male",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Obi-Wan Kenobi",
@@ -104,6 +122,8 @@ module.exports = {
           eye_color: "blue-gray",
           birth_year: "57BBY",
           gender: "male",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Anakin Skywalker",
@@ -114,6 +134,8 @@ module.exports = {
           eye_color: "blue",
           birth_year: "41.9BBY",
           gender: "male",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Wilhuff Tarkin",
@@ -124,6 +146,8 @@ module.exports = {
           eye_color: "blue",
           birth_year: "64BBY",
           gender: "male",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Chewbacca",
@@ -134,6 +158,8 @@ module.exports = {
           eye_color: "blue",
           birth_year: "200BBY",
           gender: "male",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Han Solo",
@@ -144,6 +170,8 @@ module.exports = {
           eye_color: "brown",
           birth_year: "29BBY",
           gender: "male",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Greedo",
@@ -154,6 +182,8 @@ module.exports = {
           eye_color: "black",
           birth_year: "44BBY",
           gender: "male",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Jabba Desilijic Tiure",
@@ -164,6 +194,8 @@ module.exports = {
           eye_color: "orange",
           birth_year: "600BBY",
           gender: "hermaphrodite",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Wedge Antilles",
@@ -174,6 +206,8 @@ module.exports = {
           eye_color: "hazel",
           birth_year: "21BBY",
           gender: "male",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Jek Tono Porkins",
@@ -184,6 +218,8 @@ module.exports = {
           eye_color: "blue",
           birth_year: "unknown",
           gender: "male",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Yoda",
@@ -194,6 +230,8 @@ module.exports = {
           eye_color: "brown",
           birth_year: "896BBY",
           gender: "male",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Palpatine",
@@ -204,6 +242,8 @@ module.exports = {
           eye_color: "yellow",
           birth_year: "82BBY",
           gender: "male",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Boba Fett",
@@ -214,6 +254,8 @@ module.exports = {
           eye_color: "brown",
           birth_year: "31.5BBY",
           gender: "male",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "IG-88",
@@ -224,6 +266,8 @@ module.exports = {
           eye_color: "red",
           birth_year: "15BBY",
           gender: "none",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Bossk",
@@ -234,6 +278,8 @@ module.exports = {
           eye_color: "red",
           birth_year: "53BBY",
           gender: "male",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Lando Calrissian",
@@ -244,6 +290,8 @@ module.exports = {
           eye_color: "brown",
           birth_year: "31BBY",
           gender: "male",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Lobot",
@@ -254,6 +302,8 @@ module.exports = {
           eye_color: "blue",
           birth_year: "37BBY",
           gender: "male",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Ackbar",
@@ -264,6 +314,8 @@ module.exports = {
           eye_color: "orange",
           birth_year: "41BBY",
           gender: "male",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Mon Mothma",
@@ -274,6 +326,8 @@ module.exports = {
           eye_color: "blue",
           birth_year: "48BBY",
           gender: "female",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Arvel Crynyd",
@@ -284,6 +338,8 @@ module.exports = {
           eye_color: "brown",
           birth_year: "unknown",
           gender: "male",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Wicket Systri Warrick",
@@ -294,6 +350,8 @@ module.exports = {
           eye_color: "brown",
           birth_year: "8BBY",
           gender: "male",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Nien Nunb",
@@ -304,6 +362,8 @@ module.exports = {
           eye_color: "black",
           birth_year: "unknown",
           gender: "male",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Qui-Gon Jinn",
@@ -314,6 +374,8 @@ module.exports = {
           eye_color: "blue",
           birth_year: "92BBY",
           gender: "male",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Nute Gunray",
@@ -324,6 +386,8 @@ module.exports = {
           eye_color: "red",
           birth_year: "unknown",
           gender: "male",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Finis Valorum",
@@ -334,6 +398,8 @@ module.exports = {
           eye_color: "blue",
           birth_year: "91BBY",
           gender: "male",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Padmé Amidala",
@@ -344,6 +410,8 @@ module.exports = {
           eye_color: "brown",
           birth_year: "46BBY",
           gender: "female",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Jar Jar Binks",
@@ -354,6 +422,8 @@ module.exports = {
           eye_color: "orange",
           birth_year: "52BBY",
           gender: "male",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Roos Tarpals",
@@ -364,6 +434,8 @@ module.exports = {
           eye_color: "orange",
           birth_year: "unknown",
           gender: "male",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Rugor Nass",
@@ -374,6 +446,8 @@ module.exports = {
           eye_color: "orange",
           birth_year: "unknown",
           gender: "male",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Ric Olié",
@@ -384,6 +458,8 @@ module.exports = {
           eye_color: "blue",
           birth_year: "unknown",
           gender: "male",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Watto",
@@ -394,6 +470,8 @@ module.exports = {
           eye_color: "yellow",
           birth_year: "unknown",
           gender: "male",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Sebulba",
@@ -404,6 +482,8 @@ module.exports = {
           eye_color: "orange",
           birth_year: "unknown",
           gender: "male",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Quarsh Panaka",
@@ -414,6 +494,8 @@ module.exports = {
           eye_color: "brown",
           birth_year: "62BBY",
           gender: "male",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Shmi Skywalker",
@@ -424,6 +506,8 @@ module.exports = {
           eye_color: "brown",
           birth_year: "72BBY",
           gender: "female",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Darth Maul",
@@ -434,6 +518,8 @@ module.exports = {
           eye_color: "yellow",
           birth_year: "54BBY",
           gender: "male",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Bib Fortuna",
@@ -444,6 +530,8 @@ module.exports = {
           eye_color: "pink",
           birth_year: "unknown",
           gender: "male",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Ayla Secura",
@@ -454,6 +542,8 @@ module.exports = {
           eye_color: "hazel",
           birth_year: "48BBY",
           gender: "female",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Ratts Tyerel",
@@ -464,6 +554,8 @@ module.exports = {
           eye_color: "unknown",
           birth_year: "unknown",
           gender: "male",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Dud Bolt",
@@ -474,6 +566,8 @@ module.exports = {
           eye_color: "yellow",
           birth_year: "unknown",
           gender: "male",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Gasgano",
@@ -484,6 +578,8 @@ module.exports = {
           eye_color: "black",
           birth_year: "unknown",
           gender: "male",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Ben Quadinaros",
@@ -494,6 +590,8 @@ module.exports = {
           eye_color: "orange",
           birth_year: "unknown",
           gender: "male",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Mace Windu",
@@ -504,6 +602,8 @@ module.exports = {
           eye_color: "brown",
           birth_year: "72BBY",
           gender: "male",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Ki-Adi-Mundi",
@@ -514,6 +614,8 @@ module.exports = {
           eye_color: "yellow",
           birth_year: "92BBY",
           gender: "male",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Kit Fisto",
@@ -524,6 +626,8 @@ module.exports = {
           eye_color: "black",
           birth_year: "unknown",
           gender: "male",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Eeth Koth",
@@ -534,6 +638,8 @@ module.exports = {
           eye_color: "brown",
           birth_year: "unknown",
           gender: "male",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Adi Gallia",
@@ -544,6 +650,8 @@ module.exports = {
           eye_color: "blue",
           birth_year: "unknown",
           gender: "female",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Saesee Tiin",
@@ -554,6 +662,8 @@ module.exports = {
           eye_color: "orange",
           birth_year: "unknown",
           gender: "male",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Yarael Poof",
@@ -564,6 +674,8 @@ module.exports = {
           eye_color: "yellow",
           birth_year: "unknown",
           gender: "male",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Plo Koon",
@@ -574,6 +686,8 @@ module.exports = {
           eye_color: "black",
           birth_year: "22BBY",
           gender: "male",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Mas Amedda",
@@ -584,6 +698,8 @@ module.exports = {
           eye_color: "blue",
           birth_year: "unknown",
           gender: "male",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Gregar Typho",
@@ -594,6 +710,8 @@ module.exports = {
           eye_color: "brown",
           birth_year: "unknown",
           gender: "male",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Cordé",
@@ -604,6 +722,8 @@ module.exports = {
           eye_color: "brown",
           birth_year: "unknown",
           gender: "female",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Cliegg Lars",
@@ -614,6 +734,8 @@ module.exports = {
           eye_color: "blue",
           birth_year: "82BBY",
           gender: "male",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Poggle the Lesser",
@@ -624,6 +746,8 @@ module.exports = {
           eye_color: "yellow",
           birth_year: "unknown",
           gender: "male",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Luminara Unduli",
@@ -634,6 +758,8 @@ module.exports = {
           eye_color: "blue",
           birth_year: "58BBY",
           gender: "female",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Barriss Offee",
@@ -644,6 +770,8 @@ module.exports = {
           eye_color: "blue",
           birth_year: "40BBY",
           gender: "female",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Dormé",
@@ -654,6 +782,8 @@ module.exports = {
           eye_color: "brown",
           birth_year: "unknown",
           gender: "female",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Dooku",
@@ -664,6 +794,8 @@ module.exports = {
           eye_color: "brown",
           birth_year: "102BBY",
           gender: "male",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Bail Prestor Organa",
@@ -674,6 +806,8 @@ module.exports = {
           eye_color: "brown",
           birth_year: "67BBY",
           gender: "male",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Jango Fett",
@@ -684,6 +818,8 @@ module.exports = {
           eye_color: "brown",
           birth_year: "66BBY",
           gender: "male",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Zam Wesell",
@@ -694,6 +830,8 @@ module.exports = {
           eye_color: "yellow",
           birth_year: "unknown",
           gender: "female",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Dexter Jettster",
@@ -704,6 +842,8 @@ module.exports = {
           eye_color: "yellow",
           birth_year: "unknown",
           gender: "male",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Lama Su",
@@ -714,6 +854,8 @@ module.exports = {
           eye_color: "black",
           birth_year: "unknown",
           gender: "male",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Taun We",
@@ -724,6 +866,8 @@ module.exports = {
           eye_color: "black",
           birth_year: "unknown",
           gender: "female",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Jocasta Nu",
@@ -734,6 +878,8 @@ module.exports = {
           eye_color: "blue",
           birth_year: "unknown",
           gender: "female",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "R4-P17",
@@ -744,6 +890,8 @@ module.exports = {
           eye_color: "red, blue",
           birth_year: "unknown",
           gender: "female",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Wat Tambor",
@@ -754,6 +902,8 @@ module.exports = {
           eye_color: "unknown",
           birth_year: "unknown",
           gender: "male",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "San Hill",
@@ -764,6 +914,8 @@ module.exports = {
           eye_color: "gold",
           birth_year: "unknown",
           gender: "male",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Shaak Ti",
@@ -774,6 +926,8 @@ module.exports = {
           eye_color: "black",
           birth_year: "unknown",
           gender: "female",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Grievous",
@@ -784,6 +938,8 @@ module.exports = {
           eye_color: "green, yellow",
           birth_year: "unknown",
           gender: "male",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Tarfful",
@@ -794,6 +950,8 @@ module.exports = {
           eye_color: "blue",
           birth_year: "unknown",
           gender: "male",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Raymus Antilles",
@@ -804,6 +962,8 @@ module.exports = {
           eye_color: "brown",
           birth_year: "unknown",
           gender: "male",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Sly Moore",
@@ -814,6 +974,8 @@ module.exports = {
           eye_color: "white",
           birth_year: "unknown",
           gender: "female",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Tion Medon",
@@ -824,6 +986,8 @@ module.exports = {
           eye_color: "black",
           birth_year: "unknown",
           gender: "male",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
       ],
       {}
