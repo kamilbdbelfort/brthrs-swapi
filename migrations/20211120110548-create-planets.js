@@ -1,51 +1,51 @@
-'use strict';
+"use strict";
 module.exports = {
   up: async (queryInterface, Sequelize) => {
-    await queryInterface.createTable('plantes', {
+    await queryInterface.createTable("planets", {
       id: {
         allowNull: false,
         autoIncrement: true,
         primaryKey: true,
-        type: Sequelize.INTEGER
+        type: Sequelize.INTEGER,
       },
       name: {
-        type: Sequelize.STRING
+        type: Sequelize.STRING,
       },
       rotation_period: {
-        type: Sequelize.STRING
+        type: Sequelize.STRING,
       },
       orbital_period: {
-        type: Sequelize.STRING
+        type: Sequelize.STRING,
       },
       diameter: {
-        type: Sequelize.STRING
+        type: Sequelize.STRING,
       },
       climate: {
-        type: Sequelize.STRING
+        type: Sequelize.STRING,
       },
       gravity: {
-        type: Sequelize.STRING
+        type: Sequelize.STRING,
       },
       terrain: {
-        type: Sequelize.STRING
+        type: Sequelize.STRING,
       },
       surface_water: {
-        type: Sequelize.STRING
+        type: Sequelize.STRING,
       },
       population: {
-        type: Sequelize.STRING
+        type: Sequelize.STRING,
       },
       createdAt: {
         allowNull: false,
-        type: Sequelize.DATE
+        type: Sequelize.DATE,
       },
       updatedAt: {
         allowNull: false,
-        type: Sequelize.DATE
-      }
+        type: Sequelize.DATE,
+      },
     });
   },
   down: async (queryInterface, Sequelize) => {
-    await queryInterface.dropTable('plantes');
-  }
+    await queryInterface.dropTable("planets");
+  },
 };
