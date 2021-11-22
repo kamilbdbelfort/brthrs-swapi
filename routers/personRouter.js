@@ -30,7 +30,7 @@ router.get("/height/:order", async (req, res, next) => {
   const offset = req.query.offset || 0;
 
   // ASC or DESC
-  const searchOrder = req.params.order;
+  const searchOrder = preq.params.order;
 
   try {
     const responsePerson = await Person.findAll();

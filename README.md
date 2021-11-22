@@ -28,3 +28,20 @@ npx sequelize-cli db:seed:all
 6. Start server
 
 node index.js
+
+7. Test routes
+
+Exercise 1A
+http -v :4000/search/"choose_title"/"choose_gender"
+
+Exercise 1B
+http -v :4000/height/"choose_ASC_DESC"
+
+Exercise 1C
+http -v :4000/age/"choose_ASC_DESC"
+
+Exercise 2
+http -v :4000/planets/climate/dark-haired/"choose_climate"
+
+Exercise 3
+To be continued...!
